@@ -7,8 +7,3 @@
 
 [Create your first github repo and push your code](https://www.youtube.com/watch?v=f26KI43FK58)
 <br>
-
-[link text](https://)
-<br>
-
-[link text](https://)
