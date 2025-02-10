@@ -7,3 +7,6 @@
 
 [Create your first github repo and push your code](https://www.youtube.com/watch?v=f26KI43FK58)
 <br>
+
+[Link to 1st lecture ](https://youtu.be/-_t1LLIFiWM?si=LUqbDKMdq_iBy4Nw)
+
