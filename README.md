@@ -1,4 +1,5 @@
 # AIWeekend-Project
+[About the instructor: Tannistha Maiti](https://www.linkedin.com/in/tannisthamaiti/)
 ## Important links
 <br>
 
