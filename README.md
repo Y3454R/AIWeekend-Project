@@ -10,4 +10,7 @@
 <br>
 
 [Link to 1st lecture ](https://youtu.be/-_t1LLIFiWM?si=LUqbDKMdq_iBy4Nw)
+<br>
+
+[Link to DS question](https://neetcode.io/courses/dsa-for-beginners/0)
 
